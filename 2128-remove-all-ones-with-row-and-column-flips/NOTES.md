@@ -1,1 +1,1 @@
-​
+**Intuition**: If the rows are complementary of one another or are similar, then they can be easily flipped into all the 0's. This is because on flipping them once, either all the rows or cols will contain same elements. So that makes it easy to flip all the elements into 0.
